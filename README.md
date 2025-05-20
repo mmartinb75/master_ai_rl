@@ -9,9 +9,29 @@ Install gymnasium libraries:
     `pip install gymnasium`
     - toy text:
     `pip install gymnasium[Toy-text]`
+    - all:
+     `pip install gymnasium[all]`
 
-Maibe is need to install:
-    `pip install swig`
 
 Mingrid:
     `pip install minigrid`
+OR Gym:
+    `pip install or-gym`
+
+Biological example:
+    https://github.com/icu-sepsis/icu-sepsis
+    `pip install icu-sepsis`
+
+Trading:
+    https://github.com/AminHP/gym-anytrading
+    `pip install gym-anytrading`
+
+tensorflow:
+  `pip install tensorflow`
+
+pytorch
+    `pip install pytorch`
+
+huggingface:
+    `pip install transformers`
+    `pip install datasets`
